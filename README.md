@@ -1,4 +1,4 @@
-# 2C2220007_Ryan_Tugas1
+# 2C2220007_Ryan_Tugas1_PengantarModelLinear
 
 ### Kasus 1
 Diketahui suatu harga panen bawang merah dan harga rata-rata tiap kilogram bawang merah sebagai berikut:
