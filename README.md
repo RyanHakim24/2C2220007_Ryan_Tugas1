@@ -1,6 +1,6 @@
 # 2C2220007_Ryan_Tugas1_PengantarModelLinear
 
-### Kasus 1
+### Kasus 
 Diketahui suatu harga panen bawang merah dan harga rata-rata tiap kilogram bawang merah sebagai berikut:
 
 | *Tahun* |  *Xi*  | *Yi* |
@@ -21,6 +21,8 @@ Tentukan persamaan regresinya untuk memperkirakan harga bawang itu!
 ### Penyelesaian
 Terdapat dua metode penyelesaian yang saya gunakan diantaranya:
 
-- Metode Manual: 
+- Metode Manual:
+  https://github.com/RyanHakim24/2C2220007_Ryan_Tugas1_PML/blob/6d0711d40b35dc33c6b6aedc616790f962811d86/2C2220007_Ryan_Tugas1_PML_Manual.pdf
 
-- Metode computasi python:
+- Metode Computasi Python:
+  https://github.com/RyanHakim24/2C2220007_Ryan_Tugas1_PML/blob/6d0711d40b35dc33c6b6aedc616790f962811d86/2C2220007_Ryan_Tugas1_PML.ipynb
