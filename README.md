@@ -17,3 +17,10 @@ Diketahui suatu harga panen bawang merah dan harga rata-rata tiap kilogram bawan
 | 1940 | 15 | 1.2 |
 
 Tentukan persamaan regresinya untuk memperkirakan harga bawang itu!
+
+### Penyelesaian
+Terdapat dua metode penyelesaian yang saya gunakan diantaranya:
+
+- Metode Manual: 
+
+- Metode computasi python:
